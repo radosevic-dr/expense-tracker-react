@@ -1,4 +1,4 @@
-# Code Expense
+# Simple Expense Tracker
 
 Simple app to track your income and expenses. Created just to make something with context and reducers.
 
